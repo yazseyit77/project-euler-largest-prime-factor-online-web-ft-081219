@@ -13,3 +13,5 @@
 
 ## Source
 - [Project Euler](https://projecteuler.net/) - [Problem 3](https://projecteuler.net/problem=3)
+
+<a href='https://learn.co/lessons/project-euler-largest-prime-factor' data-visibility='hidden'>View this lesson on Learn.co</a>
